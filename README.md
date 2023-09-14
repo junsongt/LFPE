@@ -1,2 +1,2 @@
 # LFPE
-Lorentz Fokker-Planck Equation
+Lorentz Fokker-Planck Equation Solver
